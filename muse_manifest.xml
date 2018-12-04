@@ -1,0 +1,505 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1543881393864">
+  <folder name="css">
+    <file name="site_global.css" crc="46116324"/>
+    <file name="master_a-master.css" crc="170341153" ref="wallets:index:proposals"/>
+    <file name="nomq_preview_master_a-master.css" crc="3997672454" ref="wallets:index:proposals"/>
+    <file name="wallets.css" crc="420279170" ref="wallets"/>
+    <file name="nomq_wallets.css" crc="3819544357" ref="wallets"/>
+    <file name="index.css" crc="484513311" ref="index"/>
+    <file name="nomq_index.css" crc="3894837708" ref="index"/>
+    <file name="iefonts_index.css" crc="4245192623" ref="index"/>
+    <file name="proposals.css" crc="266622237" ref="proposals"/>
+    <file name="nomq_proposals.css" crc="3958758513" ref="proposals"/>
+  </folder>
+  <folder name="assets">
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385441586000"/>
+    <file name="swiftcash_logo_med.png" crc="163223617" seo="true" mt="1541110418000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:proposals:wallets"/>
+    <file name="museutils.js" crc="340535759" ref="index:proposals:wallets"/>
+    <file name="whatinput.js" crc="86476730" ref="index:proposals:wallets"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:proposals:wallets"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:proposals:wallets"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:proposals:wallets"/>
+    <file name="webpro.js" crc="4059564322" ref="index:proposals:wallets"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:proposals:wallets"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:proposals:wallets"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:proposals:wallets"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:proposals:wallets"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:proposals:wallets"/>
+    <file name="require.js" crc="7928878" ref="index:proposals:wallets"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4026611166" ref="index"/>
+    <file name="logologo 2w.png" crc="3935937988" seo="true" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:proposals:wallets"/>
+    <file name="networ.png" crc="4267063589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-img1.png" crc="406075837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform.png" crc="101896648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pos.png" crc="366597532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timestamp.png" crc="3818619471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange.png" crc="369108331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy.png" crc="4231533226" seo="true" ref="index:proposals">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+    </file>
+    <file name="swiftcash_logo_completo_1.png" crc="204981419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tumblr_icon_01.png" crc="4159191262" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="tw_icon_01.png" crc="292339957" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="tw_icon_02.png" crc="38418954" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy395x391.png" crc="3971437217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform424x325.png" crc="4086601457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform348x280.png" crc="3852276444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timestamp151x151.png" crc="34351938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy366x363.png" crc="349714707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ316x324.png" crc="304224160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform416x319.png" crc="167452003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timestamp203x203.png" crc="4136772148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange511x351.png" crc="369108331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy349x345.png" crc="483270210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logologo 2w2.png" crc="48361314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_01.png" crc="4251932765" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_02.png" crc="3979555185" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ292x300.png" crc="234779637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform322x246.png" crc="535655858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timestamp118x118.png" crc="4030901077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange437x300.png" crc="183256844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy360x357.png" crc="371730861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ369x379.png" crc="97443191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform309x237.png" crc="410018884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timestamp112x112.png" crc="3778194637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange325x223.png" crc="154639236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy245x243.png" crc="3848465836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ340x349.png" crc="84448306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - blockchain platform290x223.png" crc="4123277576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange240x166.png" crc="4106573351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy256x254.png" crc="3774929896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ311x319.png" crc="206937665" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="networ274x281.png" crc="138269318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="proposals-favicon.ico" crc="4026611166" ref="proposals"/>
+    <file name="scrolldown.png" crc="3820386619" ref="proposals">
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy284x281.png" crc="44362470" seo="true" ref="proposals">
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy305x302.png" crc="147297299" seo="true" ref="proposals">
+      <caption webpage="proposals" alt=""/>
+    </file>
+    <file name="wallets-favicon.ico" crc="4026611166" ref="wallets"/>
+    <file name="linux wallet.png" crc="449575252" seo="true" ref="wallets">
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="mac wallet.png" crc="130900209" seo="true" ref="wallets">
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="windows wallet.png" crc="330043169" seo="true" ref="wallets">
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+    <file name="arm.jpg" crc="147172987" seo="true" ref="wallets">
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4049959835" seo="true" mt="1543880267159" redirect="true"/>
+  <file name="proposals.html" crc="62800723" seo="true" mt="1543880993120" redirect="true"/>
+  <file name="wallets.html" crc="232922786" seo="true" mt="1543880267159" redirect="true"/>
+</manifest>

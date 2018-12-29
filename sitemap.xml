@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://swiftcash.org/index.html</loc>
-    <lastmod>2018-12-03</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,10 +113,16 @@
     <image:image>
       <image:loc>http://swiftcash.org/images/networ274x281.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20cryptocurrency%20exchange404x278.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy490x485.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://swiftcash.org/proposals.html</loc>
-    <lastmod>2018-12-03</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +140,7 @@
   </url>
   <url>
     <loc>http://swiftcash.org/wallets.html</loc>
-    <lastmod>2018-12-03</lastmod>
+    <lastmod>2018-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

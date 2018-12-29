@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1543881393864">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546122712259">
   <folder name="css">
     <file name="site_global.css" crc="46116324"/>
-    <file name="master_a-master.css" crc="170341153" ref="wallets:index:proposals"/>
-    <file name="nomq_preview_master_a-master.css" crc="3997672454" ref="wallets:index:proposals"/>
-    <file name="wallets.css" crc="420279170" ref="wallets"/>
-    <file name="nomq_wallets.css" crc="3819544357" ref="wallets"/>
-    <file name="index.css" crc="484513311" ref="index"/>
-    <file name="nomq_index.css" crc="3894837708" ref="index"/>
+    <file name="master_a-master.css" crc="3823670991" ref="wallets:index:proposals"/>
+    <file name="nomq_preview_master_a-master.css" crc="4266835142" ref="wallets:index:proposals"/>
+    <file name="wallets.css" crc="3857389142" ref="wallets"/>
+    <file name="nomq_wallets.css" crc="4017502031" ref="wallets"/>
+    <file name="index.css" crc="276136929" ref="index"/>
+    <file name="nomq_index.css" crc="226590061" ref="index"/>
     <file name="iefonts_index.css" crc="4245192623" ref="index"/>
-    <file name="proposals.css" crc="266622237" ref="proposals"/>
-    <file name="nomq_proposals.css" crc="3958758513" ref="proposals"/>
+    <file name="proposals.css" crc="4236742368" ref="proposals"/>
+    <file name="nomq_proposals.css" crc="196933207" ref="proposals"/>
   </folder>
   <folder name="assets">
     <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385441586000"/>
@@ -147,10 +147,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="flat color modern isometric concept illustration - marketing strategy.png" crc="4231533226" seo="true" ref="index:proposals">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -340,7 +338,7 @@
     <file name="flat color modern isometric concept illustration - marketing strategy349x345.png" crc="483270210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logologo 2w2.png" crc="48361314" seo="true" ref="index">
+    <file name="logologo 2w2.png" crc="79460182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -348,9 +346,11 @@
     </file>
     <file name="menu_01.png" crc="4251932765" ref="index:proposals:wallets">
       <caption webpage="index" alt=""/>
+      <caption webpage="wallets" alt=""/>
     </file>
     <file name="menu_02.png" crc="3979555185" ref="index:proposals:wallets">
       <caption webpage="index" alt=""/>
+      <caption webpage="wallets" alt=""/>
     </file>
     <file name="networ292x300.png" crc="234779637" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -498,8 +498,14 @@
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
     </file>
+    <file name="flat color modern isometric concept illustration - cryptocurrency exchange404x278.png" crc="140245048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flat color modern isometric concept illustration - marketing strategy490x485.png" crc="4230847559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4049959835" seo="true" mt="1543880267159" redirect="true"/>
-  <file name="proposals.html" crc="62800723" seo="true" mt="1543880993120" redirect="true"/>
-  <file name="wallets.html" crc="232922786" seo="true" mt="1543880267159" redirect="true"/>
+  <file name="index.html" crc="3769487819" seo="true" mt="1546114604745" redirect="true"/>
+  <file name="proposals.html" crc="3973859563" seo="true" mt="1546113278820" redirect="true"/>
+  <file name="wallets.html" crc="412701848" seo="true" mt="1546122675311" redirect="true"/>
 </manifest>

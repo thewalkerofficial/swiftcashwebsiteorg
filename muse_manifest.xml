@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546122712259">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546139310697">
   <folder name="css">
     <file name="site_global.css" crc="46116324"/>
-    <file name="master_a-master.css" crc="3823670991" ref="wallets:index:proposals"/>
+    <file name="master_a-master.css" crc="86646221" ref="wallets:index:proposals"/>
     <file name="nomq_preview_master_a-master.css" crc="4266835142" ref="wallets:index:proposals"/>
     <file name="wallets.css" crc="3857389142" ref="wallets"/>
     <file name="nomq_wallets.css" crc="4017502031" ref="wallets"/>
-    <file name="index.css" crc="276136929" ref="index"/>
-    <file name="nomq_index.css" crc="226590061" ref="index"/>
+    <file name="index.css" crc="170501223" ref="index"/>
+    <file name="nomq_index.css" crc="4005585619" ref="index"/>
     <file name="iefonts_index.css" crc="4245192623" ref="index"/>
     <file name="proposals.css" crc="4236742368" ref="proposals"/>
     <file name="nomq_proposals.css" crc="196933207" ref="proposals"/>
@@ -505,7 +505,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3769487819" seo="true" mt="1546114604745" redirect="true"/>
+  <file name="index.html" crc="3835771487" seo="true" mt="1546139240721" redirect="true"/>
   <file name="proposals.html" crc="3973859563" seo="true" mt="1546113278820" redirect="true"/>
-  <file name="wallets.html" crc="412701848" seo="true" mt="1546122675311" redirect="true"/>
+  <file name="wallets.html" crc="3949992071" seo="true" mt="1546139260730" redirect="true"/>
 </manifest>

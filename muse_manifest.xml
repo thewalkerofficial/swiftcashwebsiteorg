@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546141997362">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546471248189">
   <folder name="css">
-    <file name="site_global.css" crc="46116324"/>
-    <file name="master_a-master.css" crc="3817253245" ref="wallets:index:proposals"/>
+    <file name="site_global.css" crc="3827212328"/>
+    <file name="master_a-master.css" crc="3865697875" ref="wallets:index:proposals"/>
     <file name="nomq_preview_master_a-master.css" crc="4266835142" ref="wallets:index:proposals"/>
-    <file name="wallets.css" crc="3857389142" ref="wallets"/>
-    <file name="nomq_wallets.css" crc="4017502031" ref="wallets"/>
-    <file name="index.css" crc="166580086" ref="index"/>
-    <file name="nomq_index.css" crc="4195607229" ref="index"/>
+    <file name="wallets.css" crc="41095747" ref="wallets"/>
+    <file name="nomq_wallets.css" crc="3807139696" ref="wallets"/>
+    <file name="index.css" crc="182148175" ref="index"/>
+    <file name="nomq_index.css" crc="3892283654" ref="index"/>
     <file name="iefonts_index.css" crc="4245192623" ref="index"/>
-    <file name="proposals.css" crc="4236742368" ref="proposals"/>
-    <file name="nomq_proposals.css" crc="196933207" ref="proposals"/>
+    <file name="proposals.css" crc="371105255" ref="proposals"/>
+    <file name="nomq_proposals.css" crc="323687578" ref="proposals"/>
   </folder>
   <folder name="assets">
     <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385441586000"/>
@@ -505,7 +505,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3779153738" seo="true" mt="1546141952802" redirect="true"/>
-  <file name="proposals.html" crc="3973859563" seo="true" mt="1546113278820" redirect="true"/>
-  <file name="wallets.html" crc="3949992071" seo="true" mt="1546139260730" redirect="true"/>
+  <file name="index.html" crc="338572773" seo="true" mt="1546471173085" redirect="true"/>
+  <file name="proposals.html" crc="463393042" seo="true" mt="1546471173085" redirect="true"/>
+  <file name="wallets.html" crc="400546914" seo="true" mt="1546471173085" redirect="true"/>
 </manifest>

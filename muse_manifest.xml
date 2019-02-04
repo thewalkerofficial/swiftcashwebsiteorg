@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1546471248189">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1549317845582">
   <folder name="css">
-    <file name="site_global.css" crc="3827212328"/>
-    <file name="master_a-master.css" crc="3865697875" ref="wallets:index:proposals"/>
+    <file name="site_global.css" crc="46116324"/>
+    <file name="master_a-master.css" crc="4142456357" ref="wallets:index:proposals"/>
     <file name="nomq_preview_master_a-master.css" crc="4266835142" ref="wallets:index:proposals"/>
-    <file name="wallets.css" crc="41095747" ref="wallets"/>
-    <file name="nomq_wallets.css" crc="3807139696" ref="wallets"/>
-    <file name="index.css" crc="182148175" ref="index"/>
-    <file name="nomq_index.css" crc="3892283654" ref="index"/>
+    <file name="wallets.css" crc="47368092" ref="wallets"/>
+    <file name="nomq_wallets.css" crc="3871649980" ref="wallets"/>
+    <file name="index.css" crc="191673754" ref="index"/>
+    <file name="nomq_index.css" crc="177092619" ref="index"/>
     <file name="iefonts_index.css" crc="4245192623" ref="index"/>
-    <file name="proposals.css" crc="371105255" ref="proposals"/>
-    <file name="nomq_proposals.css" crc="323687578" ref="proposals"/>
+    <file name="proposals.css" crc="3974032340" ref="proposals"/>
+    <file name="nomq_proposals.css" crc="4031837825" ref="proposals"/>
   </folder>
   <folder name="assets">
     <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1385441586000"/>
@@ -35,36 +35,11 @@
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4026611166" ref="index"/>
-    <file name="logologo 2w.png" crc="3935937988" seo="true" ref="index:proposals:wallets">
+    <file name="logologo 2w.png" crc="79460182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
@@ -78,6 +53,19 @@
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:proposals:wallets"/>
     <file name="networ.png" crc="4267063589" seo="true" ref="index">
@@ -158,24 +146,6 @@
       <caption webpage="proposals" alt=""/>
       <caption webpage="proposals" alt=""/>
     </file>
-    <file name="swiftcash_logo_completo_1.png" crc="204981419" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="tumblr_icon_01.png" crc="4159191262" ref="index:proposals:wallets">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -193,19 +163,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
@@ -219,6 +176,19 @@
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
     </file>
     <file name="tw_icon_01.png" crc="292339957" ref="index:proposals:wallets">
       <caption webpage="index" alt=""/>
@@ -237,19 +207,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
@@ -263,6 +220,19 @@
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
     </file>
     <file name="tw_icon_02.png" crc="38418954" ref="index:proposals:wallets">
       <caption webpage="index" alt=""/>
@@ -281,19 +251,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
-      <caption webpage="proposals" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
@@ -307,6 +264,19 @@
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
       <caption webpage="wallets" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
     </file>
     <file name="flat color modern isometric concept illustration - marketing strategy395x391.png" crc="3971437217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -336,12 +306,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="flat color modern isometric concept illustration - marketing strategy349x345.png" crc="483270210" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logologo 2w2.png" crc="79460182" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="menu_01.png" crc="4251932765" ref="index:proposals:wallets">
@@ -504,8 +468,70 @@
     <file name="flat color modern isometric concept illustration - marketing strategy490x485.png" crc="4230847559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logo swiftcash w-01.png" crc="518542124" seo="true" ref="index:proposals:wallets">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="wallets" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+      <caption webpage="proposals" alt=""/>
+    </file>
+    <file name="justlogo.png" crc="85433348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="338572773" seo="true" mt="1546471173085" redirect="true"/>
-  <file name="proposals.html" crc="463393042" seo="true" mt="1546471173085" redirect="true"/>
-  <file name="wallets.html" crc="400546914" seo="true" mt="1546471173085" redirect="true"/>
+  <file name="index.html" crc="3878629940" seo="true" mt="1549317787447" redirect="true"/>
+  <file name="proposals.html" crc="431083513" seo="true" mt="1549317787447" redirect="true"/>
+  <file name="wallets.html" crc="408122225" seo="true" mt="1549317787447" redirect="true"/>
 </manifest>

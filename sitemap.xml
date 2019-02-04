@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://swiftcash.org/index.html</loc>
-    <lastmod>2019-01-02</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -28,9 +28,6 @@
     </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://swiftcash.org/images/swiftcash_logo_completo_1.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy395x391.png</image:loc>
@@ -61,9 +58,6 @@
     </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy349x345.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://swiftcash.org/images/logologo%202w2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/networ292x300.png</image:loc>
@@ -119,15 +113,18 @@
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy490x485.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/logo%20swiftcash%20w-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/justlogo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://swiftcash.org/proposals.html</loc>
-    <lastmod>2019-01-02</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://swiftcash.org/images/logologo%202w.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy.png</image:loc>
     </image:image>
@@ -137,15 +134,15 @@
     <image:image>
       <image:loc>http://swiftcash.org/images/flat%20color%20modern%20isometric%20concept%20illustration%20-%20marketing%20strategy305x302.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/logo%20swiftcash%20w-01.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://swiftcash.org/wallets.html</loc>
-    <lastmod>2019-01-02</lastmod>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://swiftcash.org/images/logologo%202w.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/linux%20wallet.png</image:loc>
     </image:image>
@@ -157,6 +154,9 @@
     </image:image>
     <image:image>
       <image:loc>http://swiftcash.org/images/arm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://swiftcash.org/images/logo%20swiftcash%20w-01.png</image:loc>
     </image:image>
   </url>
   <url>

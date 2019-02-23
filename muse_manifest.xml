@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1549317845582">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="swiftcash.org" resolutions="1x" timestamp="1550893353401">
   <folder name="css">
-    <file name="site_global.css" crc="46116324"/>
-    <file name="master_a-master.css" crc="4142456357" ref="wallets:index:proposals"/>
+    <file name="site_global.css" crc="3827212328"/>
+    <file name="master_a-master.css" crc="4090680662" ref="wallets:index:proposals"/>
     <file name="nomq_preview_master_a-master.css" crc="4266835142" ref="wallets:index:proposals"/>
-    <file name="wallets.css" crc="47368092" ref="wallets"/>
-    <file name="nomq_wallets.css" crc="3871649980" ref="wallets"/>
-    <file name="index.css" crc="191673754" ref="index"/>
-    <file name="nomq_index.css" crc="177092619" ref="index"/>
+    <file name="wallets.css" crc="37326613" ref="wallets"/>
+    <file name="nomq_wallets.css" crc="280896582" ref="wallets"/>
+    <file name="index.css" crc="3821730208" ref="index"/>
+    <file name="nomq_index.css" crc="227561815" ref="index"/>
     <file name="iefonts_index.css" crc="4245192623" ref="index"/>
     <file name="proposals.css" crc="3974032340" ref="proposals"/>
     <file name="nomq_proposals.css" crc="4031837825" ref="proposals"/>
@@ -530,8 +530,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cre24 logo.jpg" crc="325437330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3878629940" seo="true" mt="1549317787447" redirect="true"/>
+  <file name="index.html" crc="118825941" seo="true" mt="1550893068456" redirect="true"/>
   <file name="proposals.html" crc="431083513" seo="true" mt="1549317787447" redirect="true"/>
-  <file name="wallets.html" crc="408122225" seo="true" mt="1549317787447" redirect="true"/>
+  <file name="wallets.html" crc="3936868712" seo="true" mt="1550893264371" redirect="true"/>
 </manifest>
